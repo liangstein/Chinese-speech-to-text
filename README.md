@@ -35,7 +35,7 @@ listened: 其书有现人原本于穷取来观邪不凑找他了莫银杷要求�
 ground text:其中有些人原本与陈曲澜关系不错找他软磨硬泡要求不看僧面看佛面
 ```
 
-We test the recognition ability using the audio files from test set. Although the training dataset is small (10000 samples), it can recognize key words already. Right now the model isn't trained for recognitions in noisy environments. Larger training dataset can have better recognition results. 
+We test the recognition ability using the audio files from test set. Although the training dataset is small (10000 samples), it can recognize key words already. Right now the model isn't trained for recognitions in noisy environments. Larger and more complex training dataset can have better recognition results. 
 
 ## Authors
 liangstein (lxxhlb@gmail.com, lxxhlb@mail.ustc.edu.cn)
