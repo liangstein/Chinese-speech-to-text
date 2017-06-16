@@ -2,7 +2,7 @@
 Speech recognition trained by [THCHS30 open Chinese speech database](http://data.cslt.org/thchs30/standalone.html).
 
 ## Dependency
-* Python3.6(numpy, scipy, pickle, h5py),
+* Python3.6(numpy, scipy, pickle, h5py, librosa),
 * Keras2.02,
 * Tensorflow v1.1 backend, (Not tested with Theano backend)
 * Cuda8.0, Cudnn6.0 (If GPU is used)
