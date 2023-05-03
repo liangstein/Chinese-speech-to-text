@@ -37,7 +37,3 @@ ground text:其中有些人原本与陈曲澜关系不错找他软磨硬泡要�
 
 We test the recognition ability using the audio files from test set. Although the training dataset is small (10000 samples), it can recognize key words already. Right now the model isn't trained for recognitions in noisy environments. Larger and more complex training dataset can have better recognition results. 
 
-## Authors
-liangstein (lxxhlb@gmail.com, lxxhlb@mail.ustc.edu.cn)
-Contact me if needed.
-
